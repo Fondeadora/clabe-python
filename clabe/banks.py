@@ -127,7 +127,7 @@ BANK_NAMES = {
     '90677': 'Caja Pop Mexica',
     '90683': 'Caja Telefonist',
     '90630': 'CB Intercam',
-    '40124': 'CBM Banco',
+    '40124': 'CITI MEXICO',
     '40143': 'CI Banco',
     '90631': 'CI Bolsa',
     '90901': 'Cls',
